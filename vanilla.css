@@ -1,0 +1,70 @@
+body {
+    background-color: yellow;
+}
+
+.headstyle {
+
+    position: absolute;
+    width: 262px;
+    height: 45px;
+    left: 541px;
+    top: 259px;
+    font-family: Tahoma, Geneva, Verdana, 'sans-serif';
+    font-style: normal;
+    font-size: 36px;
+    line-height: 45px;
+    color: #000000;
+}
+
+.form-control {
+    position: absolute;
+    width: 364px;
+    height: 72px;
+    left: 542px;
+    top: 343px;
+    background: rgba(217, 217, 217, 0.29);
+    border-radius: 10px;
+}
+
+#search {
+    position: absolute;
+    width: 106px;
+    height: 84px;
+    left: 888px;
+    top: 338px;
+    background: #FF233D;
+    border-radius: 0px 10px 10px 0px;
+
+}
+
+#coutryNames {
+    position: absolute;
+    height: 18px;
+    width: 194px;
+    left: 543px;
+    top: 472px;
+    font-family: Tahoma, Geneva, Verdana, 'sans-serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+}
+#countryCode{
+    position: absolute;
+    height: 59px;
+    width: 119px;
+    left: 876px;
+    top: 529px;
+    background: #000000;
+    color: white;
+}
+.controlstyle{
+    box-sizing: border-box;
+    position: absolute;
+    height: 59px;
+    width: 453px;
+    left: 543px;
+    top: 529px;
+    background:white;
+    border: 1px solid #EDEDED;
+}
