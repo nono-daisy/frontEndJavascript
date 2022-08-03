@@ -49,7 +49,8 @@ body {
     font-size: 14px;
     line-height: 18px;
 }
-#countryCode{
+
+#countryCode {
     position: absolute;
     height: 59px;
     width: 119px;
@@ -58,13 +59,14 @@ body {
     background: #000000;
     color: white;
 }
-.controlstyle{
+
+.controlstyle {
     box-sizing: border-box;
     position: absolute;
     height: 59px;
     width: 453px;
     left: 543px;
     top: 529px;
-    background:white;
+    background: white;
     border: 1px solid #EDEDED;
 }
