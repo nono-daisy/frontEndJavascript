@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: yellow;
 }
 
@@ -49,8 +49,10 @@ body {
     font-size: 14px;
     line-height: 18px;
 }
-
-#countryCode {
+.list{
+    position: relative;
+}
+.countryCode {
     position: absolute;
     height: 59px;
     width: 119px;
@@ -69,4 +71,9 @@ body {
     top: 529px;
     background: white;
     border: 1px solid #EDEDED;
+} */
+
+.list{
+    margin: 20px;
+    background: red;
 }
